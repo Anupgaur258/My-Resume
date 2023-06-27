@@ -1,0 +1,47 @@
+img {
+    width: 280px;
+    height: 280px;
+    border-radius: 3000px;
+    margin-top: 60px;
+
+}
+
+.anup {
+    margin-top: 70px;
+    font-family: "Sofia", sans-serif;
+
+    background-color: aquamarine;
+    opacity: 90%;
+    font-size: 50px;
+}
+
+hr {
+    height: 8px;
+    width: 260px;
+}
+
+.bigline {
+    font-weight: bold;
+    height: 0px;
+    margin-top: 8px;
+    stroke: 5px solid black;
+    border: 3px solid black;
+}
+
+.col-2 {
+    background-color: aquamarine;
+}
+
+
+.firstrow {
+    background-color: aquamarine;
+}
+
+.dev {
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+}
+
+.secondcolumn {
+    background-color: rgba(216, 207, 207, 0.896);
+}
